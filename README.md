@@ -6,7 +6,7 @@ The Carpooling App also allows users to leave reviews for other users. This help
 
 The Carpooling App is a great way for people to save money on transportation and reduce their carbon footprint. It is also a great way to meet new people and make friends.
 
-To get started with the Carpooling App, visit the website at https://carpoolingapp.com.
+
 
 ## User Stories
 
